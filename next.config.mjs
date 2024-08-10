@@ -1,5 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  compiler: {
+    styledComponents: true, // Enables styled-components support with SWC
+  },
   images: {
     remotePatterns: [
       {
@@ -15,7 +18,7 @@ const nextConfig = {
         hostname: "doubledebuggers-foofest.glitch.me",
       },
     ],
-  }
-}
+  },
+};
 
 export default nextConfig;
