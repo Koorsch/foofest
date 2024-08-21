@@ -18,8 +18,14 @@ Slutning af dagen: Inden arbejdsdagen slutter, vil webudvikleren ofte gennemgå,
   {
     day: 2,
     date: '2024-08-02',
-    activities: 'Designed the logo and started the UI design.',
-    teamMembers: 'Charlie, Eve',
+    activities: `Morgen: Dagen starter ofte med et kort teammøde, hvor dagens opgaver gennemgås, og eventuelle udfordringer diskuteres. Herefter vil webudvikleren typisk begynde at kode, opdatere eller vedligeholde websider. Det kan inkludere at skrive ny funktionalitet, rette fejl eller optimere kode for bedre ydeevne.
+
+    Frokost: Efter en formiddag med kodning og problemløsning er der frokostpause, hvor udvikleren får en pause fra skærmen.
+    
+    Eftermiddag: Efter frokost fortsætter udvikleren med dagens opgaver. Dette kan også inkludere samarbejde med designere for at implementere visuelle ændringer, testning af nye funktioner, og møder med kunder eller andre interessenter for at afklare krav og få feedback. Ofte vil der også være tid til at opdatere dokumentation eller lære nye teknologier.
+    
+    Slutning af dagen: Inden arbejdsdagen slutter, vil webudvikleren ofte gennemgå, hvad der er blevet opnået, og planlægge næste dags opgaver. Der kan også være en kort statusopdatering til resten af teamet eller projektlederen.`,
+        teamMembers: 'Charlie, Eve',
   },
   // Add more days here
 ];
